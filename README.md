@@ -23,16 +23,6 @@ This project demonstrates a complete pipeline for building an AI-powered chatbot
 - Gemini-2.5 Flash – Large language model for RAG-based responses.
 - setuptools – Project packaging and automation.
 
-## Project Structure
-medical-chatbot/
-├── template.py          # Automates project file structure  
-├── setup.py             # Project setup and packaging  
-├── data_processing.py   # PDF extraction and text chunking  
-├── embeddings.py        # Embedding generation and Pinecone integration  
-├── chatbot.py           # RAG chatbot implementation  
-├── requirements.txt     # Python dependencies  
-└── README.md            # Project documentation  
-
 ## Author
 Yash Taneja
 - Master of Science in Business Analytics, University of Texas at Dallas
