@@ -3,11 +3,11 @@ A retrieval-augmented medical chatbot that provides accurate, context-aware answ
 
 ## Project Overview
 This project demonstrates a complete pipeline for building an AI-powered chatbot:
-### 1. Data Extraction – Extracts medical information from PDFs.
-### 2. Text Processing – Splits documents into manageable text chunks for efficient retrieval.
-### 3. Embedding & Vectorization – Generates semantic embeddings using Hugging Face models.
-### 4. Vector Database Integration – Stores embeddings in Pinecone for fast, similarity-based retrieval.
-### 5. Retrieval-Augmented Generation (RAG) – Connects embeddings with Gemini LLM to deliver accurate answers to user queries.
+- Data Extraction – Extracts medical information from PDFs.
+- Text Processing – Splits documents into manageable text chunks for efficient retrieval.
+- Embedding & Vectorization – Generates semantic embeddings using Hugging Face models.
+- Vector Database Integration – Stores embeddings in Pinecone for fast, similarity-based retrieval.
+- Retrieval-Augmented Generation (RAG) – Connects embeddings with Gemini LLM to deliver accurate answers to user queries.
 
 ## Features
 - Automated project setup via template.py and setup.py.
