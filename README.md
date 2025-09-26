@@ -20,7 +20,7 @@ This project demonstrates a complete pipeline for building an AI-powered chatbot
 - Python – Core programming language.
 - Hugging Face Transformers – Embedding generation.
 - Pinecone – Vector database for semantic search.
-- Gemini-1.5 Flash – Large language model for RAG-based responses.
+- Gemini-2.5 Flash – Large language model for RAG-based responses.
 - setuptools – Project packaging and automation.
 
 ## Project Structure
